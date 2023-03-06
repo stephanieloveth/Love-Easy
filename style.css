@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding-left: 0;
+}
+body{
+    padding: 20px;
+}
+.you{
+    background-color: rgb(114, 236, 114);
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+    border: 5px;
+}
+.you p{
+    padding: 5px;
+}
+.best{
+    margin-top: 12px;
+}
+.welcome{
+    margin-top: 15px;
+}
+.strive{
+    margin-top: 5px;
+    background-color: rgb(114,236,114);
+    width: 300px;
+    height: 100px;
+    border: 10px;
+}
+.strive{
+    padding: 5px;
+
+}
+.comesphase{
+    margin-top: 7px;
+}
+.des{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 80px;
+}
+.phase{
+    border-bottom: 2px solid rgb(28, 8, 51);
+    padding-bottom: 1px;
+    width: 50px;
+}
+.construct{
+    border-bottom: 2px solid rgb(28, 8, 51);
+    padding-bottom: 1px;
+    padding-left: 8px;
+    width: 80px;
+}
+.four{
+    width: 350px;
+}
+.meet{
+    background-color: rgb(114,236,114);
+    width: 300px;
+    padding-left: 7px;
+    border: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.meet img{
+    width: 70px;
+    height: 50px;
+    position: relative;
+    left: 70px;
+}
+.make{
+    background-color: white;
+    width: 300px;
+    padding-left: 7px;
+}
+.images{
+    width: 70px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+.baby{
+    padding-left: 15px;
+}
+.const{
+    padding-top: 10px;
+    padding-left: 70px;
+}
+.story{
+    margin-top: 10px;
+}
+.conststory{
+    width: 300px;
+}
+.building{
+    margin-top: 10px;
+}
+.bby{
+    width: 250px;
+    height: 160px;
+    padding-left: 20px;
+}
+.why{
+    margin-top: 10px;
+}
+.why h5{
+    margin-top: 5px;
+}
+.del{
+    width: 50px;
+    height: 30px;
+    margin-top: 20px;
+}
+.deldiv h4{
+    margin-left: 45px;
+    position: relative;
+    bottom: 30px;
+}
+.deldiv2 h4{
+    margin-left: 45px;
+    position: relative;
+    bottom: 20px;
+}
+.del1{
+    width: 45px;
+    height: 30px;
+    margin-top: 20px;
+}
+.del2{
+    margin-left: 50px;
+    position: relative;
+    bottom: 25px;
+    
+} 
+.dell{
+     width: 55px;
+    height: 45px;
+    margin-top: 40px;
+}
+.let{
+    margin-top: 15px;
+} 
+.deldiv3{
+    position:relative;
+    bottom: 20px;
+}
+.phot{
+    margin-bottom: 10px;
+}
+.way{
+    margin-left: 200px;
+}
+
+
+
